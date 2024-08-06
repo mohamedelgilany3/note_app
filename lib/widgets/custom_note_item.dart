@@ -22,7 +22,7 @@ class NoteItem extends StatelessWidget {
               padding: const EdgeInsets.only(top: 16, bottom: 16),
               child: Text('Build with career with mohamed elgilany',
                   style: TextStyle(
-                      color: Colors.black.withOpacity(0.6), fontSize: 18)),
+                      color: Colors.black.withOpacity(0.6), fontSize: 17)),
             ),
             trailing: IconButton(
                 onPressed: () {},
