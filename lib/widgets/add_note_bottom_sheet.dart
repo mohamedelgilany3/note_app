@@ -17,9 +17,7 @@ class AddNoteBottomSheet extends StatelessWidget {
 }
 
 class AddNoteForm extends StatefulWidget {
-  const AddNoteForm({
-    super.key,
-  });
+  const AddNoteForm({super.key});
 
   @override
   State<AddNoteForm> createState() => _AddNoteFormState();
